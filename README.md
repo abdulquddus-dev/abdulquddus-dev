@@ -98,9 +98,9 @@ I'm a passionate **Flutter Developer** and **Web Developer** who loves turning i
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-11162a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulquddus-dev)
-[![Telegram](https://img.shields.io/badge/Telegram-11162a?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/your_telegram)
+[![Telegram](https://img.shields.io/badge/Telegram-11162a?style=for-the-badge&logo=telegram&logoColor=26A5E4)]([(https://t.me/AbdulqadoosAlShibani)])
 [![Gmail](https://img.shields.io/badge/Gmail-11162a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sba849198@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-11162a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11162a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/bdalqdwsalrshy4@gmail.com)
 
 <br/>
 
