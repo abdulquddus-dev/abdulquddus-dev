@@ -22,7 +22,7 @@
   <circle cx="120" cy="120" r="112" fill="none" stroke="url(#ring)" stroke-width="6"/>
 
   <!-- REPLACE "abdulquddus-dev" BELOW WITH YOUR REAL GITHUB USERNAME -->
-  <image href="https://github.com/abdulquddus-dev.png?size=240"
+  <image href="https://github.com/assets/abdulquddus-dev.png?size=240"
          x="20" y="20" width="200" height="200"
          clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice"/>
 
